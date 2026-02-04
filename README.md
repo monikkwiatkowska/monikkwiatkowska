@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Monika
 
-<!--
-**monikkwiatkowska/monikkwiatkowska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+MSc Data Analytics graduate (April 2026) specializing in sales analytics, business intelligence, and data visualization. Currently seeking analytics roles in Berlin's tech ecosystem.
 
-Here are some ideas to get you started:
+Previously worked as a Sales Analyst in the travel industry, where I analyzed performance metrics. Background spans fintech, tourism, and trust & safety operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+- **Languages:** SQL, Python (pandas, numpy, matplotlib, seaborn)
+- **Visualization:** Tableau, Excel, Plotly
+- **Tools:** Jupyter, Salesforce, Jira
+- **Databases:** MySQL
+
+## Featured Projects
+- in progress 
+
+## What I'm Working On
+- Building portfolio projects in travel analytics and e-commerce
+- Practicing SQL on LeetCode and StrataScratch
+- Learning advanced Tableau techniques
+
+## Let's Connect
+- LinkedIn: [https://www.linkedin.com/in/monikakwiatkowska/]
+- Email: 6monikakwiatkowska@gmail.com
+- Location: Berlin, Germany
