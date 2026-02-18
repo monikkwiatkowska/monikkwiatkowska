@@ -12,7 +12,7 @@ Previously worked as a Sales Analyst in the travel industry, where I analyzed pe
 - **Databases:** MySQL
 
 ## Featured Projects
-- in progress 
+- Sicily Airbnb  
 
 ## What I'm Working On
 - Building portfolio projects in travel analytics and e-commerce
