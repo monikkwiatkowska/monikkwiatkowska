@@ -1,4 +1,4 @@
-# Hi, I'm Monika! 👋
+# Hi, I'm Monika! 
 
 ## Data Analytics Graduate | SQL, Python, Tableau
 
