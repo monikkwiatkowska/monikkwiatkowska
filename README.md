@@ -1,25 +1,33 @@
-## Hi, I'm Monika
+# Hi, I'm Monika! 👋
 
-## About Me
-MSc Data Analytics graduate (April 2026) specializing in sales analytics, business intelligence, and data visualization. Currently seeking analytics roles in Berlin's tech ecosystem.
+## Data Analytics Graduate | SQL, Python, Tableau
 
-Previously worked as a Sales Analyst in the travel industry, where I analyzed performance metrics. Background spans fintech, tourism, and trust & safety operations.
+MSc Data Analytics student graduating April 2026. Passionate about transforming data into actionable business insights.
 
-## Technical Skills
-- **Languages:** SQL, Python (pandas, numpy, matplotlib, seaborn)
-- **Visualization:** Tableau, Excel, Plotly
-- **Tools:** Jupyter, Salesforce, Jira
-- **Databases:** MySQL
+### Technical Skills
+- **Languages:** SQL, Python
+- **Tools:** Tableau, Excel, Git, Jupyter
+- **Libraries:** pandas, NumPy, matplotlib, seaborn, scikit-learn
+- **Databases:** PostgreSQL, SQLite
+- **Analytics:** Customer Segmentation, Churn Analysis, Data Visualization, Statistical Analysis
 
-## Featured Projects
-- Sicily Airbnb  
+### Featured Projects
 
-## What I'm Working On
-- Building portfolio projects in travel analytics and e-commerce
-- Practicing SQL on LeetCode and StrataScratch
-- Learning advanced Tableau techniques
+#### FinTech Analysis
+Analysis of 100K+ transactions using SQL and Python. Identified 80% churn rate and R$6.6M revenue at risk through RFM segmentation.
+- **Tech:** SQL (CTEs, JOINs, Window Functions), Python, Tableau
+- **Key Finding:** 15,703 high-value customers churned - R$660K recovery opportunity
 
-## Let's Connect
-- LinkedIn: [https://www.linkedin.com/in/monikakwiatkowska/]
-- Email: 6monikakwiatkowska@gmail.com
-- Location: Berlin, Germany
+#### Sicily Airbnb Investment Analysis
+Analyzed 50K+ listings to identify optimal investment opportunities. Discovered 30% coastal pricing premium.
+- **Tech:** Python (pandas, matplotlib), Statistical Analysis
+- **Key Finding:** Superhost status generates €1,650 additional annual revenue
+
+### Let's Connect
+-  https://www.linkedin.com/in/monikakwiatkowska/
+-  6monikakwiatkowska@gmail.com 
+-  Berlin, Germany
+
+---
+*Currently seeking Data Analyst roles in Berlin - Open to opportunities!*
+```
